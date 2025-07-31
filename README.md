@@ -1,8 +1,6 @@
 ## 👋 Halo, saya Fikri!
 
-🎓 I'm an information system graduate who passionate about technology — especially in Frontend Development and Web Development.
-
-💻 I enjoy building modern and user-friendly web applications
+🎓 I'm an information system graduate who passionate about technology — especially in Frontend Development and Web Development. I enjoy building modern and user-friendly web applications
 
 ## 💻 Tech Skill
 
