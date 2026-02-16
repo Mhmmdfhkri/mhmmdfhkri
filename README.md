@@ -1,4 +1,4 @@
-## 👋 Halo, saya Fikri!
+## 👋 Hi, saya Fikri!
 
 Fullstack Developer with 1+ years of experience in building modern, high-performance web applications. Proficient in MERN stack (MongoDB, Express, React, Node.js). Passionate about delivering intuitive user interfaces and seamless user experience, with a strong emphasis on writing clean, scalable, and maintainable code.
 
